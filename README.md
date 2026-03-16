@@ -5,12 +5,10 @@
 
 ---
 
+
 ## 🏫 Sobre mim
-- Estudante de Análise e Desenvolvimento de Sistemas na **PUCPR**  
-- Técnica em Desenvolvimento de Sistemas na **ETEC**  
-- Instrutora de Inglês na **Wizard by Pearson**  
-- Apaixonada por programação, fanfics e tecnologia  
-- Adoro andar de bicicleta e explorar novas habilidades  
+Estudante de Análise e Desenvolvimento de Sistemas na **PUCPR** e Técnica em Desenvolvimento de Sistemas na **ETEC**, com experiência como instrutora de inglês na **Wizard by Pearson**. Apaixonada por programação, tecnologia e escrita criativa, com interesse em desenvolver soluções inovadoras e explorar novas habilidades.
+
 
 ---
 
