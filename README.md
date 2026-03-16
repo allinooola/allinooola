@@ -56,6 +56,3 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na PUCPR e Técnica em D
 
 ---
 
-<p align="center">
-  <em>“Sonhe grande, codifique maior ainda 💻✨”</em>
-</p>
