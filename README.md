@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou a Lara 👋</h1>
 <p align="center">
- <img src="https://media.giphy.com/media/l0HlPjezZB4dC1A2A/giphy.gif" width="200" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="150" alt="Coding gif"/>
 </p>
 
 ---
