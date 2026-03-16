@@ -10,10 +10,6 @@
 Estudante de Análise e Desenvolvimento de Sistemas na **PUCPR** e Técnica em Desenvolvimento de Sistemas na **ETEC**, com experiência como instrutora de inglês na **Wizard by Pearson**. Apaixonada por programação, tecnologia e escrita criativa, com interesse em desenvolver soluções inovadoras e explorar novas habilidades.
 
 
----
-
-## 🎯 Objetivo
-Busco uma oportunidade como **estagiária em TI**, aplicando conhecimentos em programação, desenvolvimento de software e soluções tecnológicas.
 
 ---
 
