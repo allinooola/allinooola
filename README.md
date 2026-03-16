@@ -44,41 +44,40 @@ Busco uma oportunidade como **estagiária em TI**, aplicando conhecimentos em pr
 
 ---
 
-## 🚀 Experiências Profissionais
+## 💻 Habilidades & Competências
 
-### Instrutora de Inglês (Horista)
-**Wizard by Pearson – São Paulo, SP**  
-_Fev. 2026 – Atual_  
-- Ministração de aulas de inglês, preparação de materiais e planejamento de aulas  
-- Avaliação de atividades e acompanhamento do desenvolvimento dos alunos  
-
-### Operadora de Loja
-**Kascão Sorvetes – São Paulo, SP**  
-_Fev. 2025 – Out. 2025_  
-- Atendimento ao cliente, operação de caixa, reposição de produtos e organização do ambiente de loja  
-
----
-
-## 📜 Cursos e Certificações
-- Inglês (Formação Bilíngue Completa) – Wizard by Pearson  
-- Certificado de Qualificação Profissional – Auxiliar de Desenvolvimento de Sistemas (ETEC)  
-- Python Básico – Fundação Bradesco  
-- Java POO + Projetos – Udemy  
-- Python 3 do básico ao avançado com projetos reais – Udemy  
+<p align="center">
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Modelagem-de-Dados-6C3483?style=for-the-badge"/>
+  
+  <!-- Versionamento & Agile -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge"/>
+  
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌐 Idiomas
-- **Inglês:** C1 (Avançado / Fluente)  
-- **Espanhol:** Básico (Conversação, leitura e compreensão auditiva)  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Inglês-C1_Advanced-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Espanhol-Básico-F7DC6F?style=for-the-badge"/>
+</p>
+
+> 🏆 **Inglês avançado bilíngue** – uso diário em ensino, leitura, escrita e comunicação.
 
 ---
-
-## ✨ Projetos & Portfolio
-- [Meu Portfolio](https://silahtgm.github.io/thalisportfolio/) – Projetos de programação e fanfics  
-- Projetos pessoais de fanfics e histórias interativas  
-- Pequenas automações e exercícios em Python/Java  
-
 ---
 
 ## ⚡ Gifs que me definem
