@@ -22,49 +22,27 @@ Busco uma oportunidade como **estagiária em TI**, aplicando conhecimentos em pr
 ## 💻 Habilidades Técnicas
 
 <p align="center">
-  <!-- Programação -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POO-FF6F61?style=for-the-badge"/>
+  ## Programação 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/POO-FF6F61?style=for-the-badge"/> <br>
 
-  <!-- Banco de Dados -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Modelagem_de_Dados-6C3483?style=for-the-badge"/>
+  ## Banco de Dados 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Modelagem_de_Dados-6C3483?style=for-the-badge"/> <br>
 
-  <!-- Versionamento & Metodologias -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge"/>
+  ## Versionamento & Metodologias
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge"/> <br>
 
-  <!-- Ferramentas de Produtividade -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  ## Ferramentas de Produtividade 
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/> <br>
 </p>
 
----
 
-## 💻 Habilidades & Competências
-
-<p align="center">
-  <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <!-- Banco de Dados -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Modelagem-de-Dados-6C3483?style=for-the-badge"/>
-  
-  <!-- Versionamento & Agile -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge"/>
-  
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-</p>
 
 ---
 
